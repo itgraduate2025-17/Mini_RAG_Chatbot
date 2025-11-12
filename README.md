@@ -1,4 +1,4 @@
-# AI_RAG_Chatbot
+Mini_RAG_Chatbot
 
 
 This project is a lightweight **Retrieval-Augmented Generation (RAG)** chatbot that answers questions from a **PDF** using **Sentence Transformers**, **FAISS**, and **FLAN-T5**.
